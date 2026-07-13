@@ -25,3 +25,5 @@ The project concludes that while basic DSP algorithms show promise in certain sc
 The report outlines the potential for future developments in noise reduction, highlighting the need to explore deep learning approaches for handling a broader range of noise types and variability. The incorporation of advanced technologies, such as real-time deep learning noise suppression, could enhance the system's capabilities.
 
 #### Feel free to contribute to the project on GitHub and explore additional advancements in audio signal processing.
+
+> Built by [Karan Khatavkar](https://karankh.tech) — AI/ML engineer, open to freelance & contract work.
